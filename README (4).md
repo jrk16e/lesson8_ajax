@@ -4,21 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12/10/18)
 
 ### Student Name:  
-(First and Last Name)
+(Juliana Krueger)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Making an API key for a movie that can be used on CLOUD9.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to use The movie database.)
+2. (Movies in CLoud9.)
+3. (Using AJAX.)
+4. (How to register for an API key.)
+5. (Using JSON)
